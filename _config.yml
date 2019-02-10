@@ -14,6 +14,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: Borg.Life
+name: Borg.Life
 email: info@robotica.ml
 description: >- # this means to ignore newlines until "baseurl:"
   The official blog for Robotica Machine Learning
