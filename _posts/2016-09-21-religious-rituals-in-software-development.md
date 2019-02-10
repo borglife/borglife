@@ -6,7 +6,7 @@ categories: agile scrum code practices
 author: Adrian Pickering
 ---
 
-![Book on the beach](/img/book.jpg)
+![Book on the beach](/img/book.jpeg)
 
 When I think of fundamental, learnt behaviours, I think of Ivan [Pavlov's dogs](http://www.simplypsychology.org/pavlov.html) and [B. F. Skinner's](http://en.wikipedia.org/wiki/B._F._Skinner) pigeons.
 
@@ -21,7 +21,7 @@ In 1947, Skinner published a paper called [Superstition in the Pigeon](http://ps
 
 Once the habit has formed, breaking it becomes difficult. Indeed, failure of the ritual to elicit the desired result makes the subject try harder and perform the ceremony ever-more diligently.
 
-![Pigoens](/img/pigeons.jpg)
+![Pigoens](/img/pigeon.jpeg)
 
 I see rituals not unlike this across many software development teams. To what end goal is your daily stand-up meeting actually a _benefit_? I am confident that questioning the Prophet of Scrum (secularly called a scrum master) as to why everyone must speak for five minutes, chanting in turn the Holy Sacraments of _What Didst I Do Yesterday_, _What Shalt I Do On The Present Day_ and _What Blocketh Me_ will illicit sensible sound-bites such as "It helps everyone know what's going on and allows planning and predictability". Unit testing too has escalated from praiseworthy and righteous into decrees on _Test Coverage_ figures. And code reviews are followed according to _The Commandments_ (sometimes called a checklist) which are rarely as useful or consistently-applied as by static code analysis and always at a greater cost.
 

@@ -6,7 +6,6 @@ date: 2019-02-10 00:00:00 +0000
 categories: machine-learning ai
 ---
 
-# Completeness of Vision 
 Data science projects, just like projects from other disciplines, have a life cycle. The success of your data science programme depends on all the steps along the way being delivered properly.  Robotica does not leave the success of your programme to chance.  We work across the entire life cycle to ensure you are supported at every step along the way.
 
 ## Proof of Concept
