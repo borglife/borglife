@@ -597,13 +597,13 @@ License: https://www.wowthemes.net/freebies-license/
          margin-bottom:-50px;
          margin-top: 3rem;
          padding:0;
-         height:350px;
+         height:700px;
          border-radius:0;
-         background-image: url(../images/jumbotron.jpg);
+         background-image: url(/img/tree.jpeg);
          background-size:cover;
     }
      .jumbotron.fortags .col-md-4 {
-         background:rgba(0,0,0,0.75);
+         background:rgb(0,0,0, 1);
          color:#fff;
     }
      .jumbotron.fortags .row {
@@ -614,7 +614,7 @@ License: https://www.wowthemes.net/freebies-license/
          margin-top: 3rem;
          padding:0;
          border-radius:0;
-         background-image: url(../images/jumbotron.jpg);
+         background-image: url(/img/tree.jpeg);
          background-size:cover;
 }
  .jumbotron.fortags a {

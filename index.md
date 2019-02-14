@@ -3,5 +3,5 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: home
-title: Borg.Life - The official blog for Robotica Machine Learning
+title: Thoughts, articles and information about automated machine learning, DataRobot and Robotica.
 ---
