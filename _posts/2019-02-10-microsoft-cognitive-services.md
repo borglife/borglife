@@ -3,7 +3,7 @@ title: Microsoft Cognitive Services
 author: Microsoft
 layout: post
 date: 2019-02-10 00:00:00 +0000
-categories: microsoft azure cognitive vision speech knowloedge search bing language platform machine-learning ai
+categories: microsoft azure cognitive vision speech knowledge search bing language platform machine-learning ai
 ---
 
 Infuse your apps, websites and bots with intelligent algorithms to see, hear, speak, understand and interpret your user needs through natural methods of communication. Transform your business with AI today.

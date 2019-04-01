@@ -3,7 +3,7 @@ title: What is DataRobot?
 author: DataRobot
 layout: post
 date: 2019-02-10 00:00:00 +0000
-categories: dataroot platform machine-learning ai
+categories: datarobot platform machine-learning ai
 ---
 
 

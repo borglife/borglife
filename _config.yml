@@ -17,7 +17,8 @@ title: Borg.Life
 name: Borg.Life
 email: info@robotica.ml
 description: >- # this means to ignore newlines until "baseurl:"
-  The official blog for Robotica Machine Learning
+ Automated machine learning, integrated. 
+ The official blog for Robotica Machine Learning.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: roboticaml
